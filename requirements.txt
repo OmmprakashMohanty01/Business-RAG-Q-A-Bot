@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-groq
+InstructorEmbedding
+faiss-cpu
+pypdf
+gradio
+torch
+sentence-transformers

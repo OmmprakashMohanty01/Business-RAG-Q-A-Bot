@@ -1,0 +1,24 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled bytecode
+__pycache__/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore large model/cache files
+*.pt
+*.ckpt
+*.pkl
+*.h5
+*.dylib
